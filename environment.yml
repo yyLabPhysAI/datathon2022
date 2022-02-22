@@ -1,4 +1,4 @@
-name: datathon2022
+name: dtn
 channels:
   - defaults
   - conda-forge
