@@ -19,13 +19,13 @@ A longer description of your project goes here...
 
 In order to set up the necessary environment:
 
-1. review and uncomment what you need in `environment.yml` and create an environment `datathon2022` with the help of [conda]:
+1. review and uncomment what you need in `environment.yml` and create an environment `dtn` with the help of [conda]:
    ```
    conda env create -f environment.yml
    ```
 2. activate the new environment with:
    ```
-   conda activate datathon2022
+   conda activate dtn
    ```
 
 > **_NOTE:_**  The conda environment will have datathon2022 installed in editable mode.
