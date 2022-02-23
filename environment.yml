@@ -22,6 +22,7 @@ dependencies:
   - xgboost
   - pytorch
   - shap
+  - scikit-garden
   - pip:
      - -e .  # install git checkout of datathon2022 in editable mode
      # add here only pip-packages that are not available in conda/conda-forge! E.g.:
@@ -33,7 +34,6 @@ dependencies:
      - py-spy
      - h5py
      - hdfdict
-     - scikit-garden
 
   # DEVELOPMENT ONLY PACKAGES (could also be kept in a separate environment file)
   - jupyterlab
